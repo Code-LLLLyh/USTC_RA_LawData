@@ -1,4 +1,4 @@
-# USTC-RA
+# USTC_RA_LawData
 ## Describe:保存一些在USTC做RA时写的代码，数据由于保密协议不进行上传
 
 ## lawDataProcess.py（2022.09.09）
